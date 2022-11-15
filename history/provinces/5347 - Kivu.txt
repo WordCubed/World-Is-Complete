@@ -1,0 +1,13 @@
+#3347 - Kivu
+
+culture = kongolese
+religion = shamanism
+capital = "Kivu"
+trade_goods = unknown
+hre = no
+base_tax = 3 base_production = 3
+base_manpower = 3
+native_size = 60
+native_ferocity = 3
+native_hostileness = 9
+

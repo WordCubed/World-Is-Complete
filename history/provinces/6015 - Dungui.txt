@@ -1,0 +1,22 @@
+#4015 - Dungui
+
+owner = MAM
+controller = MAM
+add_core = MAK
+culture = nubian
+capital = "Dungui"
+religion = sunni
+trade_goods = wool
+hre = no
+base_tax = 1 base_production = 1
+base_manpower = 1
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+
+1412.1.1 = {	owner = MAK
+		controller = MAK		
+           }	
+1540.1.1 = {	owner = TUR
+		controller = TUR
+	   } #Ottomans occupy Lower Nubia

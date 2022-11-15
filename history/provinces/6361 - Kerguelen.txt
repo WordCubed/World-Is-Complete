@@ -1,0 +1,18 @@
+#2961 - Kerguelen
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Port-aux-Français"
+
+1772.2.12 = { discovered_by = FRA }
+1772.2.13  = {	owner = FRA
+		controller = FRA
+	    	culture = cosmopolitan_french
+	    	religion = catholic
+		trade_goods = fish
+		add_core = FRA
+	    } 

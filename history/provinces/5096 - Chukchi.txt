@@ -1,0 +1,16 @@
+#3096 - Chukchi
+
+religion = shamanism
+capital = "Enurmino"
+culture = siberian
+trade_goods = unknown
+hre = no
+base_tax = 1 base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 2
+native_hostileness = 4
+
+1670.1.1  = { discovered_by = RUS } 
+1696.1.1  = { owner = RUS controller = RUS religion = orthodox }
+1726.1.1  = { add_core = RUS }

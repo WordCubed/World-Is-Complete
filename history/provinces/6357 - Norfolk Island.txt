@@ -1,0 +1,14 @@
+#2957 - Norfolk Island
+
+culture = polynesian
+religion = animism
+hre = no
+trade_goods = unknown
+base_tax = 1 base_production = 1
+base_manpower = 1
+capital = "Kingston"
+native_size = 0
+native_ferocity = 1
+native_hostileness = 1
+
+1774.10.10 = { discovered_by = GBR } # James Cook

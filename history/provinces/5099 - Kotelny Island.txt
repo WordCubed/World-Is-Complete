@@ -1,0 +1,18 @@
+#3099 - Kotelny Island
+
+religion = shamanism
+capital = "Kotelny"
+culture = siberian
+trade_goods = unknown
+hre = no
+base_tax = 1 base_production = 1
+base_manpower = 1
+native_size = 0
+native_ferocity = 0
+native_hostileness = 0
+
+1774.1.1  = { discovered_by = RUS } 
+1796.1.1  = { owner = RUS
+	      controller = RUS
+	      religion = orthodox }
+1826.1.1  = { add_core = RUS }

@@ -1,0 +1,3 @@
+#1782 - Amery Ice Shelf
+
+1931.1.1  = { discovered_by = NOR } 

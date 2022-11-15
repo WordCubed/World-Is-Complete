@@ -1,0 +1,19 @@
+#3106 - Kozva
+
+religion = shamanism
+capital = "Kozva"
+culture = uralic
+trade_goods = unknown
+hre = no
+base_tax = 1 base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 2
+native_hostileness = 4
+
+1444.1.1  = { discovered_by = western 
+	      discovered_by = eastern } 
+1613.1.1  = { owner = RUS
+	      controller = RUS
+	      religion = orthodox }
+1643.1.1  = { add_core = RUS }

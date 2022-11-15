@@ -1,0 +1,11 @@
+#2963 - Heard and McDonald
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Atlas Cove"
+
+1853.11.25 = { discovered_by = GBR }

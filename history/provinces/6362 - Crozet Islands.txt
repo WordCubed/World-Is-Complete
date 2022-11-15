@@ -1,0 +1,12 @@
+#2962 - Crozet Islands
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Port Alfred"
+
+1772.1.24 = { discovered_by = FRA }
+

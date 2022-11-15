@@ -1,0 +1,12 @@
+#2964 - Prince Edward Island
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Fairbairn Settlement"
+
+1663.3.4 = { discovered_by = NED }
+

@@ -1,0 +1,14 @@
+#4278 - Bryan Coast
+
+culture = noculture
+religion = noreligion
+capital = "Bryan Coast"
+hre = no
+trade_goods = unknown
+base_manpower = 1
+base_tax = 1 base_production = 1
+native_size = 0
+native_ferocity = 0
+native_hostileness = 0
+
+

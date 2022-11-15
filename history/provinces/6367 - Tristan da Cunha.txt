@@ -1,0 +1,17 @@
+#2967 - Tristan da Cunha
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Edinburgh of the Seven Seas"
+
+1506.1.1 = { discovered_by = POR }
+1816.8.14  = {	owner = GBR
+		controller = GBR
+	    	culture = english
+	    	religion = protestant
+		trade_goods = fish
+	    } 

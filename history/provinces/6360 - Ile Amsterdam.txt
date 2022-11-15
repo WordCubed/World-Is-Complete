@@ -1,0 +1,11 @@
+#2960 - Ile Amsterdam
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Borne du Bougainville"
+
+1522.3.18 = { discovered_by = POR }

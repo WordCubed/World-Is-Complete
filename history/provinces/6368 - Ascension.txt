@@ -1,0 +1,18 @@
+#2968 - Ascension
+
+culture = patagonian
+religion = animism
+hre = no
+base_tax = 1 base_production = 1
+trade_goods = unknown
+base_manpower = 1
+capital = "Georgetown"
+
+1501.3.25 = { discovered_by = POR }
+1815.10.22  = {	owner = GBR
+		controller = GBR
+	    	culture = english
+	    	religion = protestant
+		trade_goods = fish
+		fort_17th = yes
+	    } 

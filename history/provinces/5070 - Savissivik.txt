@@ -1,0 +1,19 @@
+#3070 - Savissivik
+
+religion = shamanism
+capital = "Savissivik"
+culture = inuit
+trade_goods = unknown
+hre = no
+base_tax = 1 base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+1616.1.1  = { discovered_by = DAN } 
+1921.1.1  = { owner = DAN
+	      controller = DAN
+	      religion = protestant }
+1933.1.1  = { add_core = DAN }
+

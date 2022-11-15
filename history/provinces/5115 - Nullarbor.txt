@@ -1,0 +1,14 @@
+#3115 - Nullarbor
+
+culture = aboriginal
+religion = animism
+capital = "Madura"
+hre = no
+trade_goods = unknown
+base_manpower = 1
+base_tax = 1 base_production = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 9
+
+1801.1.1 = { discovered_by = GBR } # Matthew Flinders

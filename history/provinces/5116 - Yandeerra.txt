@@ -1,0 +1,14 @@
+#3116 - Yandeerra
+
+culture = aboriginal
+religion = animism
+capital = "Port Hedland"
+hre = no
+trade_goods = unknown
+base_manpower = 1
+base_tax = 1 base_production = 1
+native_size = 20
+native_ferocity = 1
+native_hostileness = 9
+
+1644.1.1 = { discovered_by = NED } #Abel Tasman
