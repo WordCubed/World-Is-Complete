@@ -453,6 +453,7 @@ niger_region = {
 		niger_bend_area
 		adamawa_plateau_area
 		hausa_area
+		lower_volta_area
 	}
 	monsoon = {
 		00.06.01
@@ -468,7 +469,6 @@ guinea_region = {
 		gulf_of_guinea_area
 		jolof_area
 		sao_tome_area
-		lower_volta_area
 		west_africa_coast_area
 		futa_jallon_area
 	}
@@ -877,22 +877,35 @@ japan_region = {
 	}
 }
 
-australia_region = {
+east_australia_region = {
 	areas = {
 		eastern_australia_area
 		illawara_area
 		murray_river_area
-		north_western_australia_area
 		north_queensland_area
 		northern_australia_area
-		pilbara_area
 		queensland_area 
 		south_queensland_area
 		southern_australia_area
 		tasmania_area
-		top_end_area
-		western_australia_area
+	}
+	monsoon = {
+		00.10.01
+		00.12.30
+	}
+	monsoon = {
+		00.01.01
+		00.03.30
+	}
+}
+
+west_australia_region = {
+	areas = {
+		pilbara_area
 		south_western_australia_area
+		western_australia_area
+		north_western_australia_area
+		top_end_area
 		central_australia_area
 	}
 	monsoon = {
@@ -909,6 +922,8 @@ new_zealand_region = {
 	areas = {
 		te_waipounamu_area
 		new_zealand_islands_area
+		te_ika_a_maui_hauauru_area
+		te_ika_a_maui_waho_area
 	}
 }
 
@@ -959,31 +974,45 @@ north_china_region = {
 	}
 }
 
-brazil_region = {
+north_brazil_region = {
 	
 	areas = {
-		amapa_area
 		amazon_area
-		bahia_area
-		ceara_area
-		diamantina_area
+		western_amazonas_area
+		amapa_area
 		eastern_amazonas_area 
-		goias_area
-		grao_para_area
-		guapore_area
 		maranhao_area
+		grao_para_area
+		piaui_area
+		ceara_area
+	}
+	monsoon = {
+		00.12.01
+		00.12.30
+	}
+	monsoon = {
+		00.01.01
+		00.04.30
+	}
+}
+
+south_brazil_region = {
+	
+	areas = {
+		bahia_area
+		diamantina_area
+		goias_area
 		mato_grosso_area
 		minas_gerais_area
 		ofaie_area
 		pernambuco_area
-		piaui_area
-		pontal_area
 		rio_de_janeiro_area
 		rio_grande_do_sol_area
 		sao_francisco_area
 		sao_paolo_area
 		west_sao_paolo_area
-		western_amazonas_area
+		guapore_area
+		pontal_area
 	}
 	monsoon = {
 		00.12.01
@@ -1156,8 +1185,6 @@ oceanea_region = {
 		west_micronesia_area
 		melanesia_area
 		fiji_area
-		te_ika_a_maui_hauauru_area
-		te_ika_a_maui_waho_area
 		northern_polynesia_area
 		eastern_polynesia_area
 	}
