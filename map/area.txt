@@ -244,7 +244,7 @@ tanzania_area = {
 }
 
 malawi_area = {
-5299 5294 5337
+	5299 5294 5337 4045
 }
 
 namibia_area = {
@@ -528,7 +528,7 @@ coast_of_guyana_area = {
 }
 
 celtic_sea_area = {
-	1284 1285 1288 1289 6414
+	1284 1285 1288 1289 6413
 }
 
 west_african_coast_sea_area = {
@@ -1130,7 +1130,7 @@ smolensk_area = { #4
 }
 
 oka_area = { #3
-	296 300 6413
+	296 300 4116
 }
 
 novgorod_area = { #5
@@ -1308,7 +1308,7 @@ inner_austria_area = { #4
 
 carinthia_area = { #4 # Carniola in-game
 	color = { 46 217 110 }
-	129 130 1769 4738 
+	129 130 1769 4738 4751
 }
 
 switzerland_area = { #4
@@ -1340,7 +1340,7 @@ lower_rhineland_area = { #4
 }
 
 westphalia_area = { #3 (South Westphalia)
-	82 2972 
+	82 2972 4775
 }
 
 north_westphalia_area = { #4
@@ -1942,7 +1942,7 @@ southern_ethiopia_area = { #4
 }
 
 hadiya_area = { #3
-	1218 2756 2760
+	1218 2756 2760 4158
 }
 
 central_ethiopia_area = { #5
@@ -3649,7 +3649,7 @@ southern_illinois_area = { #3 NEW
 }
 
 mississippi_plain_area = { #5
-    894 895 897 4885 
+	894 895 897 4885 4923
 }
 
 michigan_area = { #4
@@ -3765,7 +3765,7 @@ east_alaska_area = { #3
 }
 
 lower_acadia_area = { #5
-    982 984 2568 2569 
+    982 984 2568 2569 4891
 }
 
 straits_of_georgia_area = { #4

@@ -815,7 +815,7 @@ categories =  {
 
 ### TWIC change ### superspeed edge ocean
 	edge_ocean = {
-		movement_cost = 0.01
+		movement_cost = 0.1
 		is_water = yes
 		sound_type = sea
 		color = { 28 28 28 }
@@ -872,7 +872,9 @@ terrain = {
 	woods				= { type = woods			color = { 	255	 } }
 	jungle				= { type = jungle			color = { 	254	 } }
 	
-	terrain_21			= { type = farmlands		color = { 	21	 } }	
+	terrain_21			= { type = farmlands		color = { 	21	 } }
+### TWIC ###
+	edge_ocean			= { type = edge_ocean		color = { 	37	 } }
 }
 
 ##################################################################
