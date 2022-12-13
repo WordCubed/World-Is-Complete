@@ -1,4 +1,4 @@
-province;red;green;blue;x;x,
+province;red;green;blue;name;x,
 1;128;34;64;Stockholm;x,
 2;0;36;128;Östergötland;x,
 3;128;38;192;Småland;x,
@@ -4009,6 +4009,7 @@ province;red;green;blue;x;x,
 4030;185;135;224;Bara;x
 4031;201;54;85;Antsalova;x
 4032;222;145;161;Fiherana;x
+4033;217;108;129;Al Qadarif;x
 4034;155;61;79;Makua;x
 4035;227;164;55;Ngindo;x
 4036;234;204;150;Wayao;x
@@ -4086,6 +4087,8 @@ province;red;green;blue;x;x,
 4108;207;15;100;Kaonde;x
 4109;197;15;150;Lega;x
 4110;231;127;43;Sutherland;x
+4111;119;212;150;Saintonge;x,
+4112;157;124;213;Cahors;x,
 4113;103;160;108;Uleaborg;x
 4114;145;85;134;Luleå;x
 4116;119;162;166;Oka;x
@@ -5149,7 +5152,6 @@ province;red;green;blue;x;x,
 5307;253;200;108;antarctic wasteland5;x,
 5308;43;211;177;antarctic wasteland6;x,
 5309;63;178;83;antarctic wasteland7;x,
-5310;134;154;36;hi;x,
 5311;0;151;91;newEdgeoya;x,
 5312;67;189;65;newRoss Ice Shelf;x,
 5313;131;57;102;newFilchner-Ronne Ice Shelf;x,
@@ -5558,7 +5560,5 @@ province;red;green;blue;x;x,
 6405;95;109;95;Gumbinnen;x,
 6409;222;151;200;Luki;x,
 6410;156;39;189;Mazyr;x,
-6411;119;212;150;Saintonge;x,
-6412;157;124;213;Cahors;x,
 6413;24;250;250;Land's End;x,
 6414;62;214;252;Bält sound;x,

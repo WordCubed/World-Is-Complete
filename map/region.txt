@@ -614,7 +614,6 @@ central_asia_region = {
 		syr_darya_area
 		kashgaria_area
 		tarim_basin_area
-		shanshan_area
 		kyzylkum_area
 		termez_area
 	}
@@ -644,6 +643,7 @@ west_siberia_region = {
 	areas = {
 		aqmola_area
 		central_siberia_area
+		franz_josef_land_area
 		irkutsk_area
 		ishim_area
 		kara_area
@@ -659,7 +659,6 @@ west_siberia_region = {
 east_siberia_region = {
 	areas = {
 		buryatia_area
-		franz_josef_land_area
 		kamchatka_area
 		kolyma_area
 		lena_area
@@ -724,9 +723,9 @@ tibet_region = {
 		utsang_area
 		tsang_area
 		amdo_area
-		kham_area
 		bhutan_area
 		ngari_area
+		shanshan_area
 	}
 }
 
@@ -954,6 +953,7 @@ xinan_region = {
 		chuannan_area
 		yun_gui_borderland_area
 		chuanbei_area
+		kham_area
 	}
 }
 

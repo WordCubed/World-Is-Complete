@@ -12,7 +12,7 @@ novaya_zemlya_area = {
 }
 
 franz_josef_land_area = {
-6375 6376
+	6375 6376
 }
 
 severnaya_zemlya_area = {
@@ -1918,7 +1918,7 @@ upper_nubia_area = { #5
 }
 
 sennar_area = { #3
-	1217 2799 
+	1217 2799 4033
 }
 
 red_sea_coast_area = { #4
@@ -3104,11 +3104,11 @@ kashgaria_area = { #5 #Just Kashgar & Yarkand
 }
 
 tarim_basin_area = { #3 #The rest of the Seven Cities
-	712 1784 1786 2121 2192
+	712 1784 1786 2121 2123 2192
 }
 
 shanshan_area = { #4
-	710 711 2123 4693
+	710 711 4520 4693
 }
 
 turpan_kumul_area = { #4
@@ -3141,7 +3141,7 @@ utsang_area = { #4
 }
 
 ngari_area = { #3
-	1787 2128 2129 4516 4520 4522
+	1787 2128 2129 4516 4522
 } #new!!
 
 hebei_area = { #4 (North Hebei)
