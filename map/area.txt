@@ -343,7 +343,7 @@ baltic_area = {
 }
 
 kattegat_area = { #Kattegat, Skagerrak, Sound and Belts
-	1258 1259 1267 6415
+	1258 1259 1267 6414
 }
 
 north_sea_area = {
@@ -620,11 +620,11 @@ provence_area = { #3
 }
 
 poitou_area = { #4
-	180 4386 4387 6411
+	180 4386 4387 4111
 }
 
 guyenne_area = { #4
-	174 194 198 6412
+	174 194 198 4112
 }
 
 pyrenees_area = { #4
