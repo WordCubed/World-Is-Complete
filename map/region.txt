@@ -876,7 +876,7 @@ japan_region = {
 	}
 }
 
-east_australia_region = {
+australia_region = {
 	areas = {
 		eastern_australia_area
 		illawara_area
@@ -974,7 +974,7 @@ north_china_region = {
 	}
 }
 
-north_brazil_region = {
+brazil_region = {
 	
 	areas = {
 		amazon_area

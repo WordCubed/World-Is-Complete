@@ -18,7 +18,7 @@ east_indies_superregion = {
 
 oceania_superregion = {
 	oceanea_region
-	east_australia_region
+	australia_region
 	west_australia_region
 	new_zealand_region
 }
@@ -82,7 +82,7 @@ southern_africa_superregion = {
 }
 
 south_america_superregion = { # amazonia
-	north_brazil_region
+	brazil_region
 	south_brazil_region
 	colombia_region
 }
